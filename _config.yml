@@ -31,7 +31,7 @@ enable_last_update: false
 
 # Images 
 avatar: ./assets/img/avatar3.jpg
-favicon: ./assets/img/favicon.png
+favicon: ./assets/img/avatar3_2.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
