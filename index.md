@@ -4,45 +4,25 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">About</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+Welcome to my website!
 
-## Research Interest
+I am Mingwei Xu (徐铭威), a Ph.D. candidate in Economics at the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) and I expect to graduate in June 2025.
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+My research interests lie in environmental economics, development economics, health economics, and political economy, with a regional emphasis on China.
+
+I will join the [HKU Business School](https://www.hkubs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) as a postdoctoral fellow working with Professor [Guojun He](https://www.guojunhe.com/) in Fall 2025.
+
+Here is my [CV](https://www.dropbox.com/scl/fi/ea3zjtr4phgbxu3w6ona9/CV_Mingwei_Xu.pdf?rlkey=sfnz11n293kwtggewfnrm6mbn&st=jxzwertt&dl=0).
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
-
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
-
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
-
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
+- **Ph.D. in Economics**, 2025, [Peking University](https://english.pku.edu.cn/), China
+  <div style="margin-bottom:5px"></div>
+- **B.A. in Economics**, 2020, [Peking University](https://english.pku.edu.cn/), China
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
+{% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/workinprogress.md %}
