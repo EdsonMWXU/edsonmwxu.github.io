@@ -1,20 +1,14 @@
 main:
 
-  - title: "Teaching"
-    url: ./#teaching 
-    right: true 
-
   - title: "Work in Progress"
     url: ./#workinprogress 
+    right: true 
 
   - title: "Working Papers"
     url: ./#workingpaper
 
   - title: "Publications"
     url: ./#publications
-
-  - title: "News"
-    url: ./#news
 
   - title: "About"
     url: ./#about-me
