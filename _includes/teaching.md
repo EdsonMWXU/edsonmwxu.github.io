@@ -1,9 +1,17 @@
-<h1 id="news"></h1>
+<h1 id="teaching"></h1>
 
-<h2 style="margin: 30px 0px 10px;">News</h2>
+<h2 style="margin: 30px 0px 10px;">Teaching Assistant</h2>
 
 <ul>
 
-<li><strong>[SEP. 2023]</strong> The BeMAGIC Final Event will be held between 14-15 December 2023 at <span style="color:#e74d3c"><a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">UAB</a></span>, Barcelona, Spain.</li>	
-</div>
+<li><strong>Microeconomics</strong> (UG, Spring 2019-2024)</li>
+<div style="margin-bottom:10px"></div>
+<li><strong>Development Economics</strong> (IPh.D., Fall 2023)</li>
+<div style="margin-bottom:10px"></div>
+<li><strong>Frontier Topics in Political Economy</strong> (Ph.D., Spring 2023)</li>
+<div style="margin-bottom:10px"></div>
+<li><strong>Public Finance Theory and Policy</strong> (UG, Spring 2020)</li>
+<div style="margin-bottom:10px"></div>
+<li><strong>Economics</strong> (UG, Fall 2019)</li>
+
 </ul>
