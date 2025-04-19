@@ -10,5 +10,5 @@
 <div style="margin-bottom:10px"></div>
 <li><strong>Stricter Hypertension Thresholds: Short-Term Healthcare Demand and Long-Term Health Dynamics</strong> (with <a href="https://sites.google.com/view/susanfenglu/home">Susan Feng Lu</a>, <a href="https://www.alanyangecon.com/">Yu (Alan) Yang</a>, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>)</li>
 <div style="margin-bottom:10px"></div>
-<li><strong>Metrics and Muscles: The Long-Term Health Consequences of High-Stakes Physical Education Testing in Adolescence</strong> (with Jiaqi Liu, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>)</li>
+<li><strong>Metrics and Muscles: The Long-Term Health Consequences of High-Stakes Physical Education Test in Adolescence</strong> (with Jiaqi Liu, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>)</li>
 </ul>
