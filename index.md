@@ -25,6 +25,4 @@ Here is my [CV](https://www.dropbox.com/scl/fi/ea3zjtr4phgbxu3w6ona9/CV_Mingwei_
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/workinprogress.md %}
-
 {% include_relative _includes/teaching.md %}
