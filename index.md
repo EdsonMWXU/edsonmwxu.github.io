@@ -14,7 +14,7 @@ My research interests lie in environmental economics, development economics, hea
 
 I will join the [HKU Business School](https://www.hkubs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) as a postdoctoral fellow working with Professor [Guojun He](https://www.guojunhe.com/) in Fall 2025.
 
-Here is my [CV](https://github.com/EdsonMWXU/CV/blob/de117468b471d3ca89a005133a746ec33a54fd7d/CV_Mingwei_Xu_May2025.pdf).
+Here is my [CV](https://github.com/EdsonMWXU/CV/CV_Mingwei_Xu_May2025.pdf).
 
 ## Education
 - **Ph.D. in Economics**, 2025, [Peking University](https://english.pku.edu.cn/), China
