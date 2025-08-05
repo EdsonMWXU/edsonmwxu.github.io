@@ -5,7 +5,7 @@ affiliation: HKU Business School
 # subaffiliation: Guanghua School of Management
 affiliation_link: https://www.hkubs.hku.hk/
 # subaffiliation_link: https://en.gsm.pku.edu.cn/
-affiliation_logo: ./assets/img/logogsm.png
+affiliation_logo: ./assets/img/HKUBS_Horizontal_White.webp
 email: mwxu (at) hku.hk
 # email2: mwxu (at) pku.org.c
 address: KK Leung Building, Hong Kong
@@ -30,7 +30,7 @@ enable_last_update: false
 # researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/HKUBS_Horizontal_White.webp
+avatar: ./assets/img/avatar3.jpg
 favicon: ./assets/img/avatar3_2.png
 favicon_dark: ./assets/img/favicon-dark.png
 
