@@ -8,11 +8,9 @@ layout: homepage
 
 Welcome to my website!
 
-I am Mingwei Xu (徐铭威), a Ph.D. candidate in Economics at the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) and I expect to graduate in June 2025.
+I am Mingwei Xu (徐铭威), a Post-doctoral Fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I earned my Ph.D. from [Peking University](https://english.pku.edu.cn/) in 2025.
 
 My research interests lie in environmental economics, development economics, and public economics, with a regional emphasis on China.
-
-I will join the [HKU Business School](https://www.hkubs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) as a postdoctoral fellow working with Professor [Guojun He](https://www.guojunhe.com/) in Fall 2025.
 
 Here is my [CV](https://mingweixu.com/CV/CV_Mingwei_Xu_May2025.pdf).
 
