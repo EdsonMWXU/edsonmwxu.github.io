@@ -10,7 +10,7 @@ Welcome to my website!
 
 I am Mingwei Xu (徐铭威), a Post-doctoral Fellow in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I earned my Ph.D. from [Peking University](https://english.pku.edu.cn/) in 2025.
 
-My research interests lie in environmental economics, development economics, and public economics, with a regional emphasis on China.
+My research interests lie in public economics, environmental economics, and development economics, with a regional emphasis on China.
 
 Here is my [CV](https://mingweixu.com/CV/CV_Mingwei_Xu_May2025.pdf).
 
