@@ -12,7 +12,7 @@ I am Mingwei Xu (徐铭威), a Post-doctoral Fellow in the [Faculty of Business 
 
 My research interests lie in public economics, environmental economics, and development economics, with a regional emphasis on China.
 
-Here is my [CV](https://mingweixu.com/CV/CV_Mingwei_Xu_May2025.pdf).
+Here is my [CV](https://mingweixu.com/CV/CV_Mingwei_Xu_Mar2026.pdf).
 
 ## Education
 - **Ph.D. in Economics**, 2025, [Peking University](https://english.pku.edu.cn/), China
