@@ -5,7 +5,7 @@
 <ul>
 <li><strong><span style="color:#e74d3c"><a href="https://doi.org/10.1016/j.jpubeco.2026.105664">How Do Bureaucrats Respond to Hybrid Incentive Contract: Evidence from China's Air Pollution Controls</a></span></strong> (with <a href="https://garethcao.weebly.com/">Guangyu Cao</a>, <a href="https://wengxi125.weebly.com/">Xi Weng</a>, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>) <strong><i>Journal of Public Economics</i></strong> 259 (2026): 105664.
 <br>
-<small>Media Coverage: <a href="https://voxdev.org/topic/public-economics/how-bureaucratic-incentives-drive-fight-against-air-pollution">VoxDev</a></small>
+<div style="font-size:0.78em; margin-left:1.2em; color:#555; font-style:italic;">Media Coverage: <a href="https://voxdev.org/topic/public-economics/how-bureaucratic-incentives-drive-fight-against-air-pollution" style="color:#555;">VoxDev</a></div>
 </li>
 <div style="margin-bottom:12px"></div>
 <li><strong><span style="color:#e74d3c"><a href="https://doi.org/10.1016/j.jeem.2025.103150">The Political Economy of Ratchet Effect: Evidence from China's Environmental Regulation</a></span></strong> (with <a href="https://garethcao.weebly.com/">Guangyu Cao</a>, <a href="https://wengxi125.weebly.com/">Xi Weng</a>, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>) <strong><i>Journal of Environmental Economics and Management</i></strong> 131 (2025): 103150.</li>
