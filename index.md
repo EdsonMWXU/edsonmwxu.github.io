@@ -23,4 +23,3 @@ Here is my [CV](https://mingweixu.com/CV/CV_Mingwei_Xu_Oct2026.pdf).
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/teaching.md %}
