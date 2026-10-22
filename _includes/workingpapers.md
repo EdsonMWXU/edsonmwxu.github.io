@@ -6,7 +6,7 @@
 <li><strong><span style="color:#e74d3c"><a href="https://papers.ssrn.com/abstract=5111936">Greening along the Slope and Resource Reallocation: Evidence from China's Grain for Green Program</a></span></strong> (with <a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a>, <a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a>, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>) <br><i>R&R</i> at <i><strong>Journal of Development Economics</strong></i> </li>
 <div style="margin-bottom:12px"></div>
 <li><strong><span style="color:#000000">When Transient Shocks Produce Permanent Divergence: Droughts, Labor Reallocation, and College Opportunity Loss in Rural China</span></strong> (with <a href="https://garethcao.weebly.com/">Guangyu Cao</a>, <a href="https://lhongbin.people.stanford.edu/">Hongbin Li</a>, and Yifan Zheng) </li>
-<div style="font-size:0.85em; color:#555; font-style:italic;"><strong>Conferences</strong>: WCERE, AMES-China 2026</div>
+<div style="font-size:0.85em; color:#555; font-style:italic;">Presented at: <strong>WCERE 2026, AMES-China 2026</strong></div>
 <div style="margin-bottom:12px"></div>
 <li><strong><span style="color:#000000">Beyond Subsidies: Payments for Ecosystem Services, Structural Transformation, and Human Capital Investment</span></strong> (with <a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a>, <a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a>, and <a href="https://www.gsm.pku.edu.cn/faculty/zhoula/">Li-An Zhou</a>) </li>
 </ul>
